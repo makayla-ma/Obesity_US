@@ -1,7 +1,7 @@
-### DATA
+### Data
 This folder contains the `.csv` files for the following datasets:
-- Nutrition_Physical_Activity_and_Obesity_Part_1.csv
-- Nutrition_Physical_Activity_and_Obesity_Part_2.csv
+- Nutrition_Physical_Activity_and_Obesity_Part_1
+- Nutrition_Physical_Activity_and_Obesity_Part_2
 - USA_Decade_YoungAdult_Obesity_subset
 
 The [Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System](https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system) dataset has been split into two parts by the year the data was collected because the original was too large to be uploaded.

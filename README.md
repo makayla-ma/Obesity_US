@@ -10,7 +10,9 @@ This data repository includes the following:
 - **Two visual maps** comparing obesity rates across the United States in 2013 vs. 2023, created with [Tableau](https://www.tableau.com/).
 ## Purpose and Potential Usage
 The obesity subset data waas used to compare obesity rates across the U.S. a decade apart, in 2013 and 2023. Although an in-depth analysis of the subet data has not yet been conducted, the visuals seem to display an unfavorable trend, with many states reporting higher obesity rates in 2023 than in 2013. 
+
 This data could be used by nutritionists, health professionals, and policy makers to promote efforts to improve the diets of Americans.
+
 Additionally, the [Nutrition, Physical Activity, and Obesity public dataset](https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system) contains much potential for exploration and analysis. The Colab Notebook instructions for creating the obesity subset could serve as a general framework for further subset creation. Subsets could be created for other decades or timeframes, for individual states, or for nutrition or amount of daily exercise. All of these would contribute to a better understanding of the physical health of Americans in recent years, and could provide valuable insights for the future.
 ### Getting Started
 To recreate the obesity subset or use the data to create your own, open the Colab Notebook and follow the instructions as described.

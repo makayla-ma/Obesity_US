@@ -24,7 +24,7 @@ The greener shades indicate percentages of obese adults closer to 5%, while redd
 ![Map of young adult obesity rates in 2023](https://github.com/makayla-ma/Obesity_US/blob/main/Visuals/2023.png "2023 Visual")
 
 **Note:** Obesity percentages for young adults in 2023 were not reported for Pennsylvania or Kentucky in 2023, so their data values have been excluded from the 2023 visual.
-# Contact
+## Contact
 - For questions about Python, please consult the web.
 - For questions or suggestions about this data repository, please contact the maintainer at [mzm@unc.edu](mzm@unc.edu).
 - Future contributors are welcome--feel free to suggest improvements!

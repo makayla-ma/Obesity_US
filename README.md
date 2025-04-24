@@ -20,7 +20,7 @@ To recreate the obesity subset or use the data to create your own, open the Cola
 ## Data Visualization
 The visual maps below were created with the obesity subset in [Tableau](https://www.tableau.com/).
 The greener shades indicate percentages of obese adults closer to 5%, while redder shades indicate percentages closer to 30%.
-![Map of young adult obesity rates in 2013](https://github.com/[makayla-ma]/[Obesity_US]/blob/[main]/2013.png?raw=true)
+![Map of young adult obesity rates in 2013](https://github.com/makayla-ma/Obesity_US/blob/main/Visuals/2013.png "2013 Visual")
 ![Map of young adult obesity rates in 2023](2023.png)
 
 **Note:** Obesity percentages for young adults in 2023 were not reported for Pennsylvania or Kentucky in 2023, so their data values have been excluded from the 2023 visual.

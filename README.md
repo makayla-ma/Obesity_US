@@ -14,7 +14,7 @@ This data repository was created for Professor Gotzler's ENGL 105 course. It inc
 - **A Colab Notebook** (`Obesity_Subset_Tutorial.ipynb`) **containing instructions** for how to create the obesity subset from the public dataset using Python.
 - **Two visual maps** comparing obesity rates across the United States in 2013 vs. 2023, created with [Tableau](https://www.tableau.com/).
 ## Purpose and Potential Usage
-The obesity subset data waas used to compare obesity rates across the U.S. a decade apart, in 2013 and 2023. Although an in-depth analysis of the subet data has not yet been conducted, the visuals seem to display an unfavorable trend, with many states reporting higher obesity rates in 2023 than in 2013. 
+The obesity subset data was used to compare obesity rates across the U.S. a decade apart, in 2013 and 2023. Although an in-depth analysis of the subet data has not yet been conducted, the visuals seem to display an unfavorable trend, with many states reporting higher obesity rates in 2023 than in 2013. 
 
 This data could be used by nutritionists, health professionals, and policy makers to promote efforts to improve the diets of Americans.
 

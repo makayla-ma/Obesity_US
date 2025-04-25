@@ -11,7 +11,7 @@ This data repository includes the following:
     - `Nutrition_Physical_Activity_and_Obesity_Part_1.csv` contains data for 2011-2015, 2020-2023
     - `Nutrition_Physical_Activity_and_Obesity_Part_2.csv` contains data for 2016-2019
     - The original source for the public dataset (which is 34 MB) is hyperlinked above and throughout this repository for your convenience.
-- **A Colab Notebook** (`Obesity_Subset_Tutorial.ipynb) **containing instructions** for how to create the obesity subset from the public dataset using Python.
+- **A Colab Notebook** (`Obesity_Subset_Tutorial.ipynb`) **containing instructions** for how to create the obesity subset from the public dataset using Python.
 - **Two visual maps** comparing obesity rates across the United States in 2013 vs. 2023, created with [Tableau](https://www.tableau.com/).
 ## Purpose and Potential Usage
 The obesity subset data waas used to compare obesity rates across the U.S. a decade apart, in 2013 and 2023. Although an in-depth analysis of the subet data has not yet been conducted, the visuals seem to display an unfavorable trend, with many states reporting higher obesity rates in 2023 than in 2013. 

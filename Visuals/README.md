@@ -1,5 +1,6 @@
 # Visuals
 This folder contains the visual map representations of obesity rates in young adults in 2013 and 2023.
+
 The visual maps below were created with the obesity subset in [Tableau](https://www.tableau.com/).
 The greener shades indicate percentages of obese adults closer to 5%, while redder shades indicate percentages closer to 30%.
 
